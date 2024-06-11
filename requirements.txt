@@ -1,5 +1,5 @@
-Flask==2.0.3
-opencv-python==4.5.5.64
-numpy==1.19.5
-pyvista==0.32.1
+Flask
+opencv-python
+numpy
+pyvista
 gunicorn
